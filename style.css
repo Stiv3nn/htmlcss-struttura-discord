@@ -26,6 +26,7 @@
 }
 
 .link{
+    text-decoration: none;
     background-color: orange;
     width: 30%;
     border: 3px dotted black;
